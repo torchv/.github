@@ -21,7 +21,7 @@ We believe in giving back to the open source community by sharing:
 
 Our open source ecosystem is built around three core product lines, each addressing different aspects of AI application development:
 
-![TorchV AI Architecture](https://www.luxiangdong.com/images/kbs/torchv_arc.png)
+![TorchV AI Architecture](./assets/images/torchv_arc.png)
 
 ### 🔥 Product Evolution
 
