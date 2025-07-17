@@ -6,7 +6,7 @@
 
 > 🚀 **Empowering the community with cutting-edge AI technologies and battle-tested solutions**
 
-TorchV is committed to open-sourcing our production-grade AI algorithms, tools, and best practices accumulated from serving enterprise clients in large-scale AI implementations.
+[TorchV](https://www.torchv.com/docs/) is committed to open-sourcing our production-grade AI algorithms, tools, and best practices accumulated from serving enterprise clients in large-scale AI implementations.
 
 ## 🎯 Mission
 
@@ -21,14 +21,14 @@ We believe in giving back to the open source community by sharing:
 
 Our open source ecosystem is built around three core product lines, each addressing different aspects of AI application development:
 
-![TorchV AI Architecture](https://www.luxiangdong.com/images/kbs/torchv_arc.png)
+![TorchV AI Architecture](./assets/images/torchv_arc.png)
 
 ### 🔥 Product Evolution
 
 | Generation | Product | Focus Area | Key Innovation |
 |------------|---------|------------|----------------|
-| **Gen 1** | TorchV RAG | RAG + Agent Development | Multi-modal RAG pipeline with Agent orchestration |
-| **Gen 2** | TorchV AIS | Knowledge Collaboration | Enterprise-scale knowledge management & AI workflow |
+| **Gen 1** | [TorchV RAG](https://www.torchv.com/docs/getting-started/) | RAG + Agent Development | Multi-modal RAG pipeline with Agent orchestration |
+| **Gen 2** | [TorchV AIS](https://www.torchv.com/docs/ais-getting-started/) | Knowledge Collaboration | Enterprise-scale knowledge management & AI workflow |
 | **Gen 3** | TorchV KBS | Digital Workforce | AI Agent as autonomous digital employees |
 
 ## 📦 Open Source Repositories
